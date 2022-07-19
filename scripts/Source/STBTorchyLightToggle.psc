@@ -1,0 +1,1 @@
+Scriptname STBTorchyLightToggle extends ReferenceAlias  

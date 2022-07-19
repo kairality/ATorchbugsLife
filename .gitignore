@@ -1,0 +1,8 @@
+Backups
+temp
+old
+screenshots
+othermod_contaminated
+**/CONTAMINATED/*
+**/CONTAMINATED_*
+**/*.swp
